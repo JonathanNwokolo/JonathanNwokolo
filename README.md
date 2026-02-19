@@ -21,17 +21,55 @@
 
 <br>
 
+## 👨‍💻 Sobre Mim
+
 <div align="center">
 
+```typescript
+class Desenvolvedor {
+    nome: string = "Jonathan Nwokolo";
+    idade: number = 21;
+    localizacao: string = "Brasil 🇧🇷";
+    
+    educacao = {
+        curso: "Análise e Desenvolvimento de Sistemas",
+        status: "Em andamento 📚",
+        instituicao: "Universidade"
+    };
+    
+    focoAtual = [
+        "HTML5 & CSS3",
+        "JavaScript (ES6+)",
+        "React & Vue.js",
+        "Node.js",
+        "Git & GitHub"
+    ];
+    
+    objetivo(): string {
+        return "Transformar café em código e ideias em soluções! ☕💻";
+    }
+    
+    mentalidade(): string {
+        return "Aprender, praticar, construir, evoluir. Repeat! 🚀";
+    }
+}
+```
 
-Olá, Sou o Jonathan Nwokolo
-Desenvolvedor em formação, comprometido em criar soluções modernas, funcionais e com propósito.
-Tenho focado meus estudos em HTML5,CSS e Java Script com o objetivo de transformar cada aprendizado em projetos reais ao longo da minha jornada em Desenvolvimento Full-Stack.
+</div>
 
-Sobre mim
-🎓 Graduando em Analise e Desenvolvimentos De Sistemas
-📚 Estudando JavaScript, Node.js, React , vue e desenvolvimento fullstack
-🌍 Explorando novas tecnologias e desenvolvendo soluções de software.
+### 🎯 Minha Jornada
+
+<div align="center">
+
+```diff
++ 💻 Desenvolvedor em formação focado em Full Stack
++ 🎓 Graduando em Análise e Desenvolvimento de Sistemas  
++ 🌱 Estudando ativamente: JavaScript, React, Vue e Node.js
++ 🚀 Comprometido em criar soluções modernas e funcionais
++ 🔥 Transformando cada aprendizado em projetos reais
++ 🌍 Explorando novas tecnologias e boas práticas
++ 💡 Sempre disposto a aprender e colaborar
+```
 
 </div>
 
@@ -69,8 +107,12 @@ Sobre mim
 
 ## 📊 Estatísticas do GitHub
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JonathanNwokolo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&ring_color=58A6FF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanNwokolo&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+<a href="https://github.com/JonathanNwokolo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JonathanNwokolo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&ring_color=58A6FF"/>
+</a>
+<a href="https://github.com/JonathanNwokolo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanNwokolo&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+</a>
 
 </div>
 
@@ -80,7 +122,9 @@ Sobre mim
 
 ## 🔥 Sequência de Contribuições
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JonathanNwokolo&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak"/>
+<a href="https://github.com/JonathanNwokolo">
+  <img src="https://streak-stats.demolab.com?user=JonathanNwokolo&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
+</a>
 
 </div>
 
@@ -122,7 +166,9 @@ Sobre mim
 
 ## 🏆 Troféus do GitHub
 
-<img src="https://github-profile-trophy.vercel.app/?username=JonathanNwokolo&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15"/>
+<a href="https://github.com/JonathanNwokolo">
+  <img src="https://github-profile-trophy.vercel.app/?username=JonathanNwokolo&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15&title=Commits,Repositories,Stars,Followers"/>
+</a>
 
 </div>
 
