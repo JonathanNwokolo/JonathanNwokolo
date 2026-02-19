@@ -27,31 +27,30 @@
 
 ```typescript
 class Desenvolvedor {
-    nome: string = "Jonathan Nwokolo";
-    idade: number = 21;
-    localizacao: string = "Brasil 🇧🇷";
+  nome: string = "Jonathan Nwokolo";
+  localizacao: string = "Brasil 🇧🇷";
+
+  educacao = {
+    curso: "Análise e Desenvolvimento de Sistemas",
+    status: "Em andamento 📚",
     
-    educacao = {
-        curso: "Análise e Desenvolvimento de Sistemas",
-        status: "Em andamento 📚",
-        instituicao: "Universidade"
-    };
-    
-    focoAtual = [
-        "HTML5 & CSS3",
-        "JavaScript (ES6+)",
-        "React & Vue.js",
-        "Node.js",
-        "Git & GitHub"
-    ];
-    
-    objetivo(): string {
-        return "Transformar café em código e ideias em soluções! ☕💻";
-    }
-    
-    mentalidade(): string {
-        return "Aprender, praticar, construir, evoluir. Repeat! 🚀";
-    }
+  };
+
+  focoAtual = [
+    "HTML5 & CSS3",
+    "JavaScript (ES6+)",
+    "React & Vue.js",
+    "Node.js",
+    "Git & GitHub",
+  ];
+
+  objetivo(): string {
+    return "Transformar café em código e ideias em soluções! ☕💻";
+  }
+
+  mentalidade(): string {
+    return "Aprender, praticar, construir, evoluir. Repeat! 🚀";
+  }
 }
 ```
 
@@ -63,10 +62,9 @@ class Desenvolvedor {
 
 ```diff
 + 💻 Desenvolvedor em formação focado em Full Stack
-+ 🎓 Graduando em Análise e Desenvolvimento de Sistemas  
++ 🎓 Graduando em Análise e Desenvolvimento de Sistemas
 + 🌱 Estudando ativamente: JavaScript, React, Vue e Node.js
 + 🚀 Comprometido em criar soluções modernas e funcionais
-+ 🔥 Transformando cada aprendizado em projetos reais
 + 🌍 Explorando novas tecnologias e boas práticas
 + 💡 Sempre disposto a aprender e colaborar
 ```
