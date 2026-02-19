@@ -160,15 +160,6 @@ class Desenvolvedor {
 
 <br>
 
-<div align="center">
-
-## 🏆 Troféus do GitHub
-
-<a href="https://github.com/JonathanNwokolo">
-  <img src="https://github-profile-trophy.vercel.app/?username=JonathanNwokolo&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15&title=Commits,Repositories,Stars,Followers"/>
-</a>
-
-</div>
 
 <br>
 
