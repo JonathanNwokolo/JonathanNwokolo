@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jonathan%20Nwokolo&fontSize=42&fontAlignY=30&desc=Full%20Stack%20Developer%20|%20Code%20Architect%20|%20Problem%20Solver&descAlignY=51&descAlign=50&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jonathan%20Nwokolo&fontSize=42&fontAlignY=30&desc=Estudante%20|%20Desenvolvedor%20em%20Formação%20|%20Aprendiz%20Full%20Stack&descAlignY=51&descAlign=50&animation=twinkling"/>
 
 </div>
 
@@ -22,30 +22,16 @@
 <br>
 
 <div align="center">
-  
-### 👨‍💻 Sobre Mim
 
-```javascript
-const jonathan = {
-    code: ["JavaScript", "TypeScript", "Python", "Java", "C#"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.js", "Vue", "Angular"],
-            css: ["Tailwind", "Styled-Components", "SASS"]
-        },
-        backEnd: {
-            js: ["Node.js", "Express", "NestJS"],
-            python: ["Django", "Flask", "FastAPI"],
-            misc: ["Spring Boot", ".NET Core"]
-        },
-        databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
-        devOps: ["Docker", "Kubernetes", "AWS", "Azure", "CI/CD"],
-        tools: ["Git", "GitHub Actions", "Jest", "Cypress"]
-    },
-    currentFocus: "Construindo aplicações escaláveis e performáticas",
-    funFact: "Eu transformo café em código! ☕➡️💻"
-};
-```
+
+Olá, Sou o Jonathan Nwokolo
+Desenvolvedor em formação, comprometido em criar soluções modernas, funcionais e com propósito.
+Tenho focado meus estudos em HTML5,CSS e Java Script com o objetivo de transformar cada aprendizado em projetos reais ao longo da minha jornada em Desenvolvimento Full-Stack.
+
+Sobre mim
+🎓 Graduando em Analise e Desenvolvimentos De Sistemas
+📚 Estudando JavaScript, Node.js, React , vue e desenvolvimento fullstack
+🌍 Explorando novas tecnologias e desenvolvendo soluções de software.
 
 </div>
 
@@ -57,20 +43,21 @@ const jonathan = {
 <tr>
 <td width="50%">
 
-### 💡 Projetos Inovadores
-- 🚀 Soluções modernas e escaláveis
-- 🎨 Interfaces intuitivas e responsivas
-- ⚡ Performance e otimização
-- 🔒 Segurança em primeiro lugar
+### 💡 Projetos de Aprendizado
+
+- 🚀 Desenvolvendo soluções práticas
+- 🎨 Criando interfaces responsivas
+- 💪 Aplicando conhecimentos em projetos reais
 
 </td>
 <td width="50%">
 
-### 🌱 Aprendizado Contínuo
-- 📚 Sempre explorando novas tecnologias
-- 🎓 Compartilhando conhecimento
-- 🤝 Colaborando com a comunidade
-- 💪 Desafios e problem solving
+### 🌱 Jornada de Aprendizado
+
+- 📚 Explorando JavaScript e frameworks modernos
+- 🎓 Graduando em Análise e Desenvolvimento de Sistemas
+- 🤝 Crescendo com a comunidade dev
+- 💻 Transformando teoria em prática
 
 </td>
 </tr>
@@ -117,7 +104,15 @@ const jonathan = {
 
 ## 🛠️ Tecnologias & Ferramentas
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,angular,nodejs,express,python,django,flask,fastapi,java,spring,cs,dotnet,docker,kubernetes,aws,azure,gcp,postgresql,mongodb,mysql,redis,git,github,gitlab,vscode,neovim&perline=10" />
+### 🚀 Estudando Atualmente
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vue,nodejs,git,github,vscode&perline=5" />
+
+<br>
+
+**Frontend:** HTML5, CSS3, JavaScript, React, Vue  
+**Backend:** Node.js  
+**Ferramentas:** Git, GitHub, VS Code
 
 </div>
 
@@ -150,14 +145,8 @@ const jonathan = {
 <a href="https://www.linkedin.com/in/jonathannwokolo" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="mailto:jonathan@example.com">
+<a href="mailto:jonathan.nwokolo@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://twitter.com/jonathannwokolo" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-</a>
-<a href="https://jonathannwokolo.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
 </a>
 
 </div>
@@ -166,9 +155,9 @@ const jonathan = {
 
 <div align="center">
 
-### 💭 Quote do Dia
+### 💭 Frase Motivacional
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+![Quote](https://img.shields.io/badge/💡-"O%20único%20modo%20de%20fazer%20um%20ótimo%20trabalho%20é%20amar%20o%20que%20você%20faz."%20--%20Steve%20Jobs-0D1117?style=for-the-badge&labelColor=58A6FF)
 
 </div>
 
@@ -177,21 +166,21 @@ const jonathan = {
 <div align="center">
 
 ```ascii
-  _____ _                 _                           __               
- |_   _| |__   __ _ _ __ | | _____   _    ___  /\  /\ \ \   ___  _   _ 
+  _____ _                 _                           __
+ |_   _| |__   __ _ _ __ | | _____   _    ___  /\  /\ \ \   ___  _   _
    | | | '_ \ / _` | '_ \| |/ / __| | | | | / _ \ \ \_\ \ \ / _ \| | | |
    | | | | | | (_| | | | |   <\__ \ |_| |_|/ ___ \/  \  \_\ (_) | |_| |
    |_| |_| |_|\__,_|_| |_|_|\_\___/ \__, /_/   \_\_/\_/\___/ \__,_|
-                                    |___/                            
-   __           _     _ _   _              
-  / _| ___  _  | |   (_) |_(_)_ __   __ _ 
+                                    |___/
+   __           _     _ _   _
+  / _| ___  _  | |   (_) |_(_)_ __   __ _
  | |_ / _ \| '_| |  | | __| | '_ \ / _` |
  |  _| (_) | |  \_/ | | |_| | | | | (_| |
  |_|  \___/|_|   \___/_|\__|_|_| |_|\__, |
-                                    |___/ 
+                                    |___/
 ```
 
-### ⚡ "Code is like humor. When you have to explain it, it's bad." - Cory House
+### ⚡ "Código é como humor. Quando você precisa explicá-lo, é ruim." - Cory House
 
 </div>
 
@@ -207,23 +196,23 @@ const jonathan = {
 <br>
 
 ```yaml
-Hardware:
-  - 💻 Laptop: [Seu laptop aqui]
-  - ⌨️ Teclado: [Seu teclado aqui]
-  - 🖱️ Mouse: [Seu mouse aqui]
-  - 🎧 Headset: [Seu headset aqui]
-  
-Software:
-  - 📝 Editor: VS Code / Neovim
-  - 🖥️ Terminal: Windows Terminal / Oh My Zsh
-  - 🎨 Design: Figma
-  - 📦 Containers: Docker Desktop
-  
-Produtividade:
-  - ☕ Café: Sim, muito!
-  - 🎵 Música: Lo-fi / Synthwave
-  - ⏰ Horário Favorito: 00:00 - 03:00 AM
-  - 🔄 Git Commits: "Fixed bug" mais vezes do que gostaria de admitir
+🎓 Formação:
+  Curso: Análise e Desenvolvimento de Sistemas
+  Status: Graduando
+  Foco: Desenvolvimento Full Stack
+
+💻 Setup de Estudos:
+  Editor: VS Code
+  Terminal: Windows Terminal
+  Controle de Versão: Git & GitHub
+  Sistema: Windows
+
+📚 Rotina de Estudos:
+  ⏰ Horário: Noites e finais de semana
+  ☕ Combustível: Café e determinação!
+  🎵 Trilha Sonora: Lo-fi para concentração
+  🎯 Meta: Evoluir 1% a cada dia
+  💡 Mantra: "Aprenda, pratique, compartilhe, repita!"
 ```
 
 </details>
